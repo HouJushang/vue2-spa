@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>餐服长后台</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  </head>
+  <body>
+    <div id="app">
+      <transition :name="transitionName">
+        <router-view>
+        </router-view>
+      </transition>
+      <loading></loading>
+      <prompt></prompt>
+    </div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
