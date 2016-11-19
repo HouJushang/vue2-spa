@@ -1,10 +1,12 @@
 # vue2-spa
 vue单页应用，包含loading封装，prompt封装，转场动画！vue-resource vue-router 整合
 
-## 依赖环境
-json-server
-https://github.com/typicode/json-server
+## 展示
 
+
+## 依赖环境
+json-server  https://github.com/typicode/json-server 模拟数据 
+sass http://sass-lang.com/install
 
 ## Build Setup
 
